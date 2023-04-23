@@ -8,6 +8,7 @@ class Super(models.Model):
     secondary_ability = models.CharField(max_length=255)
     catch_phrase = models.CharField(max_length=255)
 
+
     
     
     
